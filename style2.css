@@ -1,0 +1,42 @@
+ @media screen and (max-width: 768px) {
+     .container-section {
+         width: 80%;
+         display: block;
+         margin: auto;
+         padding-top: 50px;
+     }
+     .content-section {
+         float: none;
+         width: 100%;
+         display: block;
+         margin: auto;
+     }
+     .image-section {
+         float: none;
+         width: 100%;
+     }
+
+    .image-section img {
+        width: 100%;
+        height: auto;
+        display: block;   
+     } 
+
+     .content-section .title {
+         text-align: center;
+         font-size: 19px;
+
+     }
+
+     .content-section .content-omoss .button {
+         text-align: center;
+     }
+
+     .content-section .content-omoss .button a {
+         padding: 9px 30px;
+     }
+
+     .content-section .social {
+         text-align: center;
+     }
+ }
